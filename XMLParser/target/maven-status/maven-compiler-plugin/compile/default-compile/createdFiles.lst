@@ -1,2 +1,2 @@
-com\mycompany\xmlparser\XMLParser.class
-com\mycompany\xmlparser\MyXMLParser.class
+XMLParser\XMLParser.class
+XMLParser\MyXMLParser.class
